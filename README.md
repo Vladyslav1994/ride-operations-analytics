@@ -93,6 +93,7 @@ WHERE `Booking Status` != 'Completed'
 GROUP BY hour_of_day, ride_status
 ORDER BY problematic_rides DESC;
 
+![Dashboard Overview](Photo_dashboard.jpg)
 
 
 
